@@ -1,4 +1,4 @@
-# doorlockatmel
+# Door Lock System Arduino
 
 ## Objective
 The purpose of this project is to design a lock door system which uses keypad for entering the password, and lcd to print the feedback if the password is true or false and a servo motor to rotate the door.
